@@ -1,4 +1,4 @@
-# Solar PV in Aerial Imagery
+# Detecting Solar Panels From Satellite Imagery
 
 ## content
 The goal of this analysis is to detect solar panels in aerial imagery data. The MIDS team was given a series of image files. The goal is to develop a machine learning technique that is able to make a binary decision: is there a solar panel in the image?
